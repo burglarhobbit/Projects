@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    // compileSdkVersion 24
+    signingConfigs {
+        gyapaksign {
+            keyAlias 'gyapakkey'
+            keyPassword 'gyapakkeypassword'
+            storeFile file('/home/bhavya/.android/debug.keystore')
+            storePassword 'android'
+        }
+    }
+    compileSdkVersion 23
+    // buildToolsVersion "24.0.1"
+    buildToolsVersion "23.0.1"
+    defaultConfig {
+        applicationId "edu.ahduni.seas.gyapak"
+        minSdkVersion 21
+        //     targetSdkVersion 24
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.gyapaksign
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    //    compile 'com.android.support:appcompat-v7:24.1.1'
+    //  compile 'com.android.support:design:24.2.0'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:design:23.1.1'
+    compile 'com.google.android.gms:play-services-appindexing:9.2.1'
+    compile 'com.google.android.gms:play-services-auth:9.2.1'
+}
+apply plugin: 'com.google.gms.google-services'

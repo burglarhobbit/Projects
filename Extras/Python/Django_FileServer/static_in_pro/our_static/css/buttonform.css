@@ -1,0 +1,35 @@
+section {
+	#border:1px solid black;
+	display:inline-table;
+	width:100%;
+	height:15%;
+	margin:0 auto;
+	padding:5px;
+	
+}
+
+.left_side {
+	border:2px solid blue;
+	float:left;
+	width:70%;
+	padding:15px;
+	margin:15px;
+	text-align:center-left;
+/*
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	flex-flow:row wrap;
+	justify-content:flex-start;
+	align-content:flex-start;*/
+
+}
+
+.right_side {
+	float:left;
+	border:2px solid red;
+	padding:15px;
+	margin:15px;
+	width:18%;
+	text-align:center;
+}

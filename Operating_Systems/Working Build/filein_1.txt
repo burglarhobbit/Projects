@@ -1,0 +1,4 @@
+ADD i j MAYANK
+SUB a b ALS
+MUL c d MNO
+DIV x y ALSLAL

@@ -1,0 +1,71 @@
+<!--<form method ='POST' action=''>{% csrf_token %}
+{{form.as_p}}
+	<input type='submit' value='Submit'	/>
+</form>-->
+{% load staticfiles %}
+<html lang="en">
+	
+	<head> 
+		<link href="{% static 'css/buttonform.css' %}" rel="stylesheet">
+		<section>
+			<div class="left_side">
+				<form method ='GET' action='/realTime'><!--{% csrf_token %}-->
+				Index of 
+				
+					{% for name,path in pathlist %}
+						>
+						<input type = 'submit' name='{{path}}' value='{{name}}' />
+						
+					{% endfor %}
+					> <input type='submit' name='{{initial}}' value='{{download}}' />
+					<!---->
+				</form>
+			</div>
+			<form method ='GET' action=''><!--{% csrf_token %}-->
+					<div class="right_side">
+						Search: <input type='text' name='search' maxlength="15" />
+					</div>
+			</form>
+		</section>
+
+	</head>
+	
+	<body>
+		<form method ='GET' action='/realTime'><!--{% csrf_token %}-->
+			<ul>
+				{% for name,path in directory %}
+				<li>
+					<p>
+						<input type='submit' name='{{path}}' value='{{name}}' />
+					</p>
+				</li>
+				{% endfor %}
+
+				{% for name,path in file %}
+				<li>
+					<p>
+						<input type='submit' name='{{path}}' value='{{name}}' />
+					</p>
+				</li>
+				{% endfor %}
+			</ul>
+		</form>
+		
+		{% for name,path in directory %}
+			<li>
+				<p>
+<!--					<a href='/realTime/{{path}}'> {{name}} </a> -->
+					<a href='/{{path}}'> {{name}} </a>
+				</p>
+			</li>
+		{% endfor %}
+		{% for name,path in file %}
+			<li>
+				<p>
+<!--					<a href='/realTime/{{path}}'> {{name}} </a> -->
+					<a href='/{{path}}'> {{name}} </a>
+				</p>
+			</li>
+		{% endfor %}
+	</body>
+</html>

@@ -1,0 +1,65 @@
+<!--<form method ='POST' action=''>{% csrf_token %}
+{{form.as_p}}
+	<input type='submit' value='Submit'	/>
+</form>-->
+{% load staticfiles %}
+<html lang="en">
+	
+	<head> 
+		<link href="{% static 'css/buttonform.css' %}" rel="stylesheet">
+		<section>
+			<div class="left_side">
+				<form method ='GET' action=''><!--{% csrf_token %}-->
+				Index of 
+				
+					{% for name,path in pathlist %}
+						>
+						<input type = 'submit' name='{{path}}' value='{{name}}' />
+						
+					{% endfor %}
+					> <input type='submit' name='{{initial}}' value='{{download}}' />
+					<!---->
+				</form>
+			</div>
+			<form method ='GET' action=''><!--{% csrf_token %}-->
+					<div class="right_side">
+						Search: <input type='text' name='username' maxlength="20" />
+					</div>
+			</form>
+		</section>
+
+	</head>
+	
+	<body>
+		<form method ='GET' action=''><!--{% csrf_token %}-->
+			<ul>
+				{% for value in directory|get_item:initial %}
+				<li>
+				<!-- Is working due to an error for "home listing". Will not work with actual correct syntax ONLY for home listing: {{value|addstr:initial}} 
+					Because the path should be 1st argument and the 2nd argument should be a directory name. If the 1st argument is not a path,
+					then the argument which will be an actual path would be returned which is the case here, arg1 = "home" arg2 = "path" -->
+					<p>
+					{% with ""|addstr:initial|addstr:value as template %}
+
+						<input type='submit' name='{{template}}' value='{{value}}' />
+
+					{% endwith %}
+					</p>
+				</li>
+				{% endfor %}
+
+				{% for value in file|get_item:initial %}
+				<li>
+					<p>
+					{% with ""|addstr:initial|addstr:value as template %}
+
+						<input type='submit' name='{{template}}' value='{{value}}' />
+
+					{% endwith %}
+					</p>
+				</li>
+				{% endfor %}
+			</ul>
+		</form>
+	</body>
+</html>

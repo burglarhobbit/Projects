@@ -1,0 +1,1323 @@
+ProcessID          Mode                        Time
+
+	1 			 Executing 			 Wed Dec  7 19:54:53.754 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:53.804 2016
+
+	1 			 Blocking 			 Wed Dec  7 19:54:53.805 2016
+
+	1 			 Exiting 			 Wed Dec  7 19:54:53.805 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:53.806 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:53.856 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:53.856 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:53.857 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:53.907 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:53.907 2016
+
+	4 			 Executing 			 Wed Dec  7 19:54:53.909 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:53.959 2016
+
+	4 			 Blocking 			 Wed Dec  7 19:54:53.959 2016
+
+	4 			 Exiting 			 Wed Dec  7 19:54:53.959 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:53.959 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.9 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.9 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.10 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.60 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.60 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.61 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.111 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.112 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.126 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.176 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.176 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.177 2016
+
+   INT 			 INTERRUPT 			 Wed Dec  7 19:54:54.226 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.230 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.230 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.232 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.232 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.233 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.283 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.283 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.284 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.334 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.334 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.334 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.384 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.384 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.385 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.435 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.435 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.435 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.486 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.486 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.486 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.536 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.536 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.537 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.587 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.587 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.588 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.638 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.638 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.638 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.694 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.694 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.694 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.744 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.744 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.746 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.796 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.796 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.805 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.855 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.855 2016
+
+	2 			 Executing 			 Wed Dec  7 19:54:54.856 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.906 2016
+
+	2 			 Blocking 			 Wed Dec  7 19:54:54.906 2016
+
+	2 			 Exiting 			 Wed Dec  7 19:54:54.906 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.906 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:54.956 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:54.957 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:54.957 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:55.7 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:55.7 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:55.8 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:55.58 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:55.58 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:55.58 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:55.108 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:55.108 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:55.108 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 19:54:55.158 2016
+
+	3 			 Blocking 			 Wed Dec  7 19:54:55.158 2016
+
+	3 			 Executing 			 Wed Dec  7 19:54:55.159 2016
+
+	1 			 Executing 			 Wed Dec  7 23:28:35.35 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.85 2016
+
+	1 			 Blocking 			 Wed Dec  7 23:28:35.85 2016
+
+	1 			 Exiting 			 Wed Dec  7 23:28:35.85 2016
+
+	2 			 Executing 			 Wed Dec  7 23:28:35.86 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.143 2016
+
+	2 			 Blocking 			 Wed Dec  7 23:28:35.143 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.156 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.206 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.206 2016
+
+	4 			 Executing 			 Wed Dec  7 23:28:35.206 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.256 2016
+
+	4 			 Blocking 			 Wed Dec  7 23:28:35.257 2016
+
+	4 			 Exiting 			 Wed Dec  7 23:28:35.257 2016
+
+	2 			 Executing 			 Wed Dec  7 23:28:35.257 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.307 2016
+
+	2 			 Blocking 			 Wed Dec  7 23:28:35.307 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.307 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.358 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.358 2016
+
+	2 			 Executing 			 Wed Dec  7 23:28:35.358 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.408 2016
+
+	2 			 Blocking 			 Wed Dec  7 23:28:35.408 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.409 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.459 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.459 2016
+
+	2 			 Executing 			 Wed Dec  7 23:28:35.459 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.509 2016
+
+	2 			 Blocking 			 Wed Dec  7 23:28:35.509 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.509 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.559 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.559 2016
+
+	2 			 Executing 			 Wed Dec  7 23:28:35.560 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.610 2016
+
+	2 			 Blocking 			 Wed Dec  7 23:28:35.610 2016
+
+	2 			 Exiting 			 Wed Dec  7 23:28:35.610 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.610 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.660 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.660 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.660 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.710 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.711 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.711 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.761 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.761 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.904 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:35.954 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:35.954 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:35.954 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:36.4 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:36.4 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:36.5 2016
+
+	0 			 TIMESLICE 			 Wed Dec  7 23:28:36.55 2016
+
+	3 			 Blocking 			 Wed Dec  7 23:28:36.55 2016
+
+	3 			 Executing 			 Wed Dec  7 23:28:36.55 2016
+
+	1 			 Executing 			 Fri Dec  9 18:55:22.485 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.535 2016
+
+	1 			 Blocking 			 Fri Dec  9 18:55:22.535 2016
+
+	1 			 Exiting 			 Fri Dec  9 18:55:22.535 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:22.536 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.591 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:22.591 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:22.595 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.645 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:22.645 2016
+
+	4 			 Executing 			 Fri Dec  9 18:55:22.648 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.698 2016
+
+	4 			 Blocking 			 Fri Dec  9 18:55:22.698 2016
+
+	4 			 Exiting 			 Fri Dec  9 18:55:22.698 2016
+
+	5 			 CANCELLING 		 Fri Dec  9 18:55:22.699 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:22.700 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.768 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:22.768 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:22.768 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.818 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:22.818 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:22.821 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.871 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:22.871 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:22.876 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.931 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:22.931 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:22.935 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:22.985 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:22.985 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:22.994 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.44 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.44 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.48 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.98 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.98 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.99 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.151 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.151 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.156 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.215 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.215 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.220 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.270 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.270 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.282 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.332 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.332 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.335 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.385 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.385 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.388 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.438 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.445 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.447 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.497 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.497 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.508 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.558 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.558 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.564 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.614 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.614 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.617 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.670 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.670 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.676 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.726 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.726 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.736 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.786 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.786 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.793 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.843 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.843 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.848 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.898 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:23.898 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:23.899 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:23.951 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:23.951 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:23.968 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.23 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.23 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.31 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.81 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.81 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:24.88 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.138 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.138 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.138 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.197 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.197 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:24.204 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.255 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.255 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.263 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.313 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.340 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:24.340 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.391 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.391 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.397 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.449 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.450 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:24.453 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.515 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.515 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.532 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.582 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.582 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:24.584 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.634 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.634 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.642 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.700 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.700 2016
+
+	2 			 Executing 			 Fri Dec  9 18:55:24.703 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.756 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:55:24.756 2016
+
+	2 			 Exiting 			 Fri Dec  9 18:55:24.756 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.756 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.810 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.810 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.820 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.870 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.871 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.872 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.923 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.923 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.924 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:24.975 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:24.975 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:24.979 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.29 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.29 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.30 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.81 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.81 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.84 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.135 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.135 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.137 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.187 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.187 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.192 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.242 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.242 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.247 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.300 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.300 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.303 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.353 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.353 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.354 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.404 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.404 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.406 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.457 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.457 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.459 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.509 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.509 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.518 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.569 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.569 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.582 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.632 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.632 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.634 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.684 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.684 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.696 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.746 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.746 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.756 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.807 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.807 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.807 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.857 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.857 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:25.860 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:25.912 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:25.912 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:26.19 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:26.70 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:26.70 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:26.76 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:26.126 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:26.126 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:26.127 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:26.177 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:26.177 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:26.178 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:55:26.230 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:55:26.230 2016
+
+	3 			 Executing 			 Fri Dec  9 18:55:26.230 2016
+
+	1 			 Executing 			 Fri Dec  9 18:58:48.44 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.94 2016
+
+	1 			 Blocking 			 Fri Dec  9 18:58:48.94 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:48.107 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.160 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:48.160 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:48.164 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.215 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:48.215 2016
+
+	4 			 Executing 			 Fri Dec  9 18:58:48.220 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.271 2016
+
+	4 			 Blocking 			 Fri Dec  9 18:58:48.271 2016
+
+	4 			 Exiting 			 Fri Dec  9 18:58:48.271 2016
+
+	1 			 Executing 			 Fri Dec  9 18:58:48.271 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.321 2016
+
+	1 			 Blocking 			 Fri Dec  9 18:58:48.322 2016
+
+	1 			 Exiting 			 Fri Dec  9 18:58:48.322 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:48.322 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.373 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:48.373 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:48.380 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.430 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:48.430 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:48.431 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.482 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:48.482 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:48.576 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.626 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:48.626 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:48.627 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.677 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:48.679 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:48.682 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.733 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:48.733 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:48.734 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.787 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:48.787 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:48.792 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.842 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:48.842 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:48.849 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.904 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:48.904 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:48.916 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:48.966 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:48.966 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.27 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.77 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.77 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.108 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.159 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.159 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.212 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.267 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.267 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.270 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.320 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.320 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.320 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.370 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.370 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.371 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.421 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.421 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.426 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.476 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.476 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.504 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.554 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.554 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.559 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.610 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.610 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.615 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.665 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.665 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.670 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.720 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.720 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.720 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.771 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.771 2016
+
+	2 			 Executing 			 Fri Dec  9 18:58:49.772 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.822 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:58:49.822 2016
+
+	2 			 Exiting 			 Fri Dec  9 18:58:49.822 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.822 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.872 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.872 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.873 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.924 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.924 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.926 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:49.976 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:49.976 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:49.977 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.27 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.27 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.28 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.78 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.78 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.78 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.128 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.128 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.129 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.179 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.179 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.180 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.230 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.230 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.231 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.281 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.281 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.281 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:58:50.332 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:58:50.332 2016
+
+	3 			 Executing 			 Fri Dec  9 18:58:50.333 2016
+
+	1 			 Executing 			 Fri Dec  9 18:59:53.641 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:53.697 2016
+
+	1 			 Blocking 			 Fri Dec  9 18:59:53.697 2016
+
+	1 			 Exiting 			 Fri Dec  9 18:59:53.697 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:53.697 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:53.747 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:53.747 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:53.748 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:53.798 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:53.798 2016
+
+	4 			 Executing 			 Fri Dec  9 18:59:53.805 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:53.855 2016
+
+	4 			 Blocking 			 Fri Dec  9 18:59:53.855 2016
+
+	4 			 Exiting 			 Fri Dec  9 18:59:53.855 2016
+
+	5 			 CANCELLING 		 Fri Dec  9 18:59:53.856 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:53.859 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:53.909 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:53.909 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:53.935 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:53.986 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:53.986 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:53.986 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.37 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.37 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.53 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.104 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.104 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.107 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.162 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.162 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.171 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.227 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.227 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.254 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.305 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.306 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.316 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.368 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.368 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.372 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.422 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.422 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.423 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.476 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.476 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.488 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.538 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.538 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.539 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.590 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.590 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.596 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.647 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.647 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.655 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.706 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.706 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.708 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.758 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.758 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.761 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.811 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.811 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.812 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.862 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.862 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.868 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.919 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:54.919 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:54.920 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:54.970 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:54.970 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:54.978 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.29 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.29 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.33 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.86 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.86 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.89 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.141 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.141 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.157 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.207 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.207 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.208 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.260 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.260 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.266 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.320 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.320 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.323 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.378 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.378 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.382 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.432 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.432 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.437 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.487 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.487 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.504 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.558 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.558 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.564 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.614 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.614 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.620 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.670 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.670 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.692 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.742 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.742 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.744 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.795 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.795 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.814 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.869 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.870 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.871 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.922 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:55.922 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:55.938 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:55.988 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:55.988 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:55.996 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.47 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:56.47 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.48 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.99 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.99 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:56.102 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.153 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:56.154 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.156 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.213 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.213 2016
+
+	2 			 Executing 			 Fri Dec  9 18:59:56.229 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.279 2016
+
+	2 			 Blocking 			 Fri Dec  9 18:59:56.280 2016
+
+	2 			 Exiting 			 Fri Dec  9 18:59:56.280 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.282 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.332 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.332 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.333 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.386 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.386 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.388 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.438 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.438 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.439 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.489 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.489 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.502 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.552 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.552 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.554 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.604 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.604 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.609 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.659 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.659 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.664 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.715 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.715 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.717 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.769 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.769 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.772 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.822 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.822 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.824 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.876 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.876 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.876 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.927 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.927 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.929 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:56.980 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:56.980 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:56.981 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.31 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.31 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.35 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.85 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.85 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.85 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.135 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.135 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.136 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.186 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.186 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.186 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.237 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.237 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.239 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.289 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.289 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.289 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.347 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.347 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.348 2016
+
+	0 			 TIMESLICE 			 Fri Dec  9 18:59:57.399 2016
+
+	3 			 Blocking 			 Fri Dec  9 18:59:57.399 2016
+
+	3 			 Executing 			 Fri Dec  9 18:59:57.399 2016

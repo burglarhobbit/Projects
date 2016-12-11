@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472736628685",
+    "project_id": "gyapak-28e8e"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472736628685:android:4373836515ea5ebf",
+        "android_client_info": {
+          "package_name": "edu.ahduni.seas.gyapak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472736628685-f53qb2hd58b82s6tcqneq948t09qtg6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ahduni.seas.gyapak",
+            "certificate_hash": "E819F121DCD6048B98B95B0F5F5A418A22CE8AEF"
+          }
+        },
+        {
+          "client_id": "472736628685-2fguq44f5crt6japqfvbt6vchjjernk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoYjHep-28zTRZRiCRBdNyV51JJ_OvFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

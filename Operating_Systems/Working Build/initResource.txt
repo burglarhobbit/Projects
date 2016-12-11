@@ -1,0 +1,13 @@
+JAY 1
+MAITREY 2
+PARTH 3
+BHAVYA 4
+a 5
+b 6
+c 7
+d 8
+i 9
+j 10
+x 11
+y 12
+z 13
