@@ -9,3 +9,7 @@ Projects that Bhavya did in his free time :P
 +   Life
 
 [Link] (https://github.com/burglarhobbit)
+
+```shell
+	bash setup                	# Setup README with just ONE Commit!
+```
